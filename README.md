@@ -37,11 +37,13 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeJiaYue520&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile" height="160" alt="stats graph" />
   &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeJiaYue520&locale=en&line_height=33&theme=radical&langs_count=5&layout=compact" height="160" alt="languages graph" />
 </div>
+-->
 
 ## What I've been doing recently
 
