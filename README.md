@@ -28,22 +28,22 @@
   <a href=""><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
   <!-- 后端和数据库 -->
-  <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+  <!--   <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp; -->
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
-  <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+  <!--   <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp; -->
   <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
 </p>
 
 ###
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeJiaYue520&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=percentile" height="160" alt="stats graph" />
+<!--
   &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeJiaYue520&locale=en&line_height=33&theme=radical&langs_count=5&layout=compact" height="160" alt="languages graph" />
-</div>
 -->
+</div>
 
 ## What I've been doing recently
 
